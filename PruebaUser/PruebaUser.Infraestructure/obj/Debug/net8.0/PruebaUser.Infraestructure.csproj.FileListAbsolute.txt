@@ -1,0 +1,15 @@
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\bin\Debug\net8.0\PruebaUser.Infraestructure.deps.json
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\bin\Debug\net8.0\PruebaUser.Infraestructure.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\bin\Debug\net8.0\PruebaUser.Infraestructure.pdb
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\bin\Debug\net8.0\PruebaUser.Core.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\bin\Debug\net8.0\PruebaUser.Core.pdb
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.AssemblyInfo.cs
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUs.6DBFCA05.Up2Date
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\refint\PruebaUser.Infraestructure.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\PruebaUser.Infraestructure.pdb
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Infraestructure\obj\Debug\net8.0\ref\PruebaUser.Infraestructure.dll

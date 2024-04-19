@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\controllers\\loginusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\controllers\\loginusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|solutionrelative:pruebauser.infraestructure\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.infraestructure\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|solutionrelative:pruebauser.infraestructure\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.infraestructure\\services\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|solutionrelative:pruebauser.infraestructure\\services\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\entities\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\entities\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.infraestructure\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|solutionrelative:pruebauser.infraestructure\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\dtos\\loginusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\dtos\\loginusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\pruebauser.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\pruebauser.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\interfaces\\iloginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\interfaces\\iloginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\dtos\\usuariocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\dtos\\usuariocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\dtos\\tipodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\dtos\\tipodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.infraestructure\\pruebauser.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{406EE19C-8A7F-433F-AC08-2FCD41D72241}|PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj|solutionrelative:pruebauser.infraestructure\\pruebauser.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\logs\\applog-20240419.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\logs\\applog-20240419.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.api\\logs\\applog-20240418.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0223150D-7221-42C9-9D82-5F19F0E0ADD8}|PruebaUser.Api\\PruebaUser.Api.csproj|solutionrelative:pruebauser.api\\logs\\applog-20240418.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|c:\\users\\migue\\desktop\\desarollo\\pruebauserdb\\pruebauser\\pruebauser.core\\pruebauser.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FF79F1A-DB2D-44B4-BE02-7A3A69ACC559}|PruebaUser.Core\\PruebaUser.Core.csproj|solutionrelative:pruebauser.core\\pruebauser.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Infraestructure\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\UserDBContext.cs",
+              "RelativeToolTip": "PruebaUser.Infraestructure\\UserDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:50:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "PruebaUser.Infraestructure\\Repositories\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:50:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Controllers\\LoginUsuarioController.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\Controllers\\LoginUsuarioController.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Controllers\\LoginUsuarioController.cs",
+              "RelativeToolTip": "PruebaUser.Api\\Controllers\\LoginUsuarioController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:27:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PruebaUser.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:32:54.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Entities\\Usuario.cs",
+              "RelativeToolTip": "PruebaUser.Core\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:17:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Entities\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\Entities\\TipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Entities\\TipoDocumento.cs",
+              "RelativeToolTip": "PruebaUser.Core\\Entities\\TipoDocumento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:48:16.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Services\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Infraestructure\\Services\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Services\\LoginUsuario.cs",
+              "RelativeToolTip": "PruebaUser.Infraestructure\\Services\\LoginUsuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PruebaUser.Api.http",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\PruebaUser.Api.http",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\PruebaUser.Api.http",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\PruebaUser.Api.http",
+              "RelativeToolTip": "PruebaUser.Api\\PruebaUser.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-18T19:24:32.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\Interfaces\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "PruebaUser.Core\\Interfaces\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:59:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Services\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Infraestructure\\Services\\PasswordManager.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\Services\\PasswordManager.cs",
+              "RelativeToolTip": "PruebaUser.Infraestructure\\Services\\PasswordManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:08:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\LoginUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\DTOs\\LoginUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\LoginUsuarioDTO.cs",
+              "RelativeToolTip": "PruebaUser.Core\\DTOs\\LoginUsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:38:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\appsettings.json",
+              "RelativeToolTip": "PruebaUser.Api\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T12:35:44.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Interfaces\\ILoginUsuario.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\Interfaces\\ILoginUsuario.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\Interfaces\\ILoginUsuario.cs",
+              "RelativeToolTip": "PruebaUser.Core\\Interfaces\\ILoginUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:52:07.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Program.cs",
+              "RelativeToolTip": "PruebaUser.Api\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:10:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoDocumentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\TipoDocumentoDTO.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\DTOs\\TipoDocumentoDTO.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\TipoDocumentoDTO.cs",
+              "RelativeToolTip": "PruebaUser.Core\\DTOs\\TipoDocumentoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:24:05.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\UsuarioCreacionDTO.cs",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\DTOs\\UsuarioCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\DTOs\\UsuarioCreacionDTO.cs",
+              "RelativeToolTip": "PruebaUser.Core\\DTOs\\UsuarioCreacionDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:32:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "applog-20240419.txt",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Logs\\applog-20240419.txt",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\Logs\\applog-20240419.txt",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Logs\\applog-20240419.txt",
+              "RelativeToolTip": "PruebaUser.Api\\Logs\\applog-20240419.txt",
+              "ViewState": "AQIAANQBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-19T11:32:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "applog-20240418.txt",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Logs\\applog-20240418.txt",
+              "RelativeDocumentMoniker": "PruebaUser.Api\\Logs\\applog-20240418.txt",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Api\\Logs\\applog-20240418.txt",
+              "RelativeToolTip": "PruebaUser.Api\\Logs\\applog-20240418.txt",
+              "ViewState": "AQIAAFQUAAAAAAAAAAASwFgUAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-18T23:14:35.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PruebaUser.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj",
+              "RelativeToolTip": "PruebaUser.Infraestructure\\PruebaUser.Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T19:23:08.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PruebaUser.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\PruebaUser.Core.csproj",
+              "RelativeDocumentMoniker": "PruebaUser.Core\\PruebaUser.Core.csproj",
+              "ToolTip": "C:\\Users\\Migue\\Desktop\\Desarollo\\PruebaUserDB\\PruebaUser\\PruebaUser.Core\\PruebaUser.Core.csproj",
+              "RelativeToolTip": "PruebaUser.Core\\PruebaUser.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T19:21:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-18T19:52:49.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

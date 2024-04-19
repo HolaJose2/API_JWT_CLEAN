@@ -1,0 +1,11 @@
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\bin\Debug\net8.0\PruebaUser.Core.deps.json
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\bin\Debug\net8.0\PruebaUser.Core.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\bin\Debug\net8.0\PruebaUser.Core.pdb
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.AssemblyInfo.cs
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\refint\PruebaUser.Core.dll
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\PruebaUser.Core.pdb
+C:\Users\Migue\Desktop\PruebaUserDB\PruebaUser\PruebaUser.Core\obj\Debug\net8.0\ref\PruebaUser.Core.dll

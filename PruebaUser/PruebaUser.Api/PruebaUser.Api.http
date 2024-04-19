@@ -1,0 +1,6 @@
+@PruebaUser.Api_HostAddress = http://localhost:5020
+
+GET {{PruebaUser.Api_HostAddress}}/api/usuario
+Accept: application/json
+
+###
